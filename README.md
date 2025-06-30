@@ -17,3 +17,10 @@ It helps prepare your dataset by performing the following operations:
 
 4.Feature scaling
   Applies scaling (e.g., standardization) to ensure features are on a similar scale.
+
+How to Use
+1. Import your desired dataset into your project.
+
+2. Replace 'Data.csv' in the code with the path or name of your own dataset file.
+
+3. Make sure your dataset in in CSV format and located in the correct directory relative to your program.
